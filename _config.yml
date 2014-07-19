@@ -9,4 +9,5 @@ github_username:  polem
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 permalink: pretty
