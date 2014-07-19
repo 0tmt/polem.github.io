@@ -38,6 +38,7 @@ Comme vous souhaitez que seul les anciens utilisateurs soit concernés par l'enc
 Pour cela votre entité d'utilisateur doit implementer l'interface `EncoderAwareInterface`.
 
 {% highlight php %}
+<?php
 namespace Acme\UserBundle\Entity;
 
 use Symfony\Component\Security\Core\User\UserInterface;
