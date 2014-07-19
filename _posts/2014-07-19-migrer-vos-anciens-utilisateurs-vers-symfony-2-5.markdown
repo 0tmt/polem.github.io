@@ -19,7 +19,7 @@ La nouveauté est que Symfony 2.5 intègre maintenant ces possiblités dans le c
 Dans le cas ou vos anciens utilisateurs viennent de drupal 6 vous avez besoin d'ajouter un encoder md5 simple.
 Pour cela éditer votre fichier `app/config/security.yml` comme ceci :
 
-{% highlight yaml %}
+{% highlight yml %}
 security:
     # …
     encoders:
