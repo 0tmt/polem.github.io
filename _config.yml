@@ -1,0 +1,12 @@
+# Site settings
+title: Paul-Emile M.
+email: paulemile.miny@gmail.com
+description: "Retrouvez ici des articles de blog sur PHP, Symfony, AngularJs et autre, Ingénieur en informatique je suis actuelement Lead Developer à LaNetscouade (Paris)"
+baseurl: ""
+url: "http://polem.github.io"
+twitter_username: polem
+github_username:  polem
+
+# Build settings
+markdown: kramdown
+permalink: pretty
